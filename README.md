@@ -1,2 +1,2 @@
-# EvaluaciÓn IV-VersiÓn Escritorio
+# Evaluación IV-Versión Escritorio
 - https://asdonis.github.io/EvaluacionIV-VersionEscritorio/
